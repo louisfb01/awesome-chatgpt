@@ -9,6 +9,7 @@
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
+- [[Video] ChatGPT Explained in 5 Minutes](https://youtu.be/AsFgn8vU-tQ)
 
 #### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
